@@ -1,8 +1,8 @@
 # Amazon Bluetooth Speaker Comparison Analysis:
 
 ## Relevant Links:
-Colab Notebook: https://colab.research.google.com/drive/1TSaVx5vnQtEjOWuK7mcOADBBtNFkY9uE?usp=sharing
-Tableau Dashboard: https://public.tableau.com/views/Amz-revs-analysis_2/ExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- Colab Notebook: https://colab.research.google.com/drive/1TSaVx5vnQtEjOWuK7mcOADBBtNFkY9uE?usp=sharing
+- Tableau Dashboard: https://public.tableau.com/views/Amz-revs-analysis_2/ExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Project Overview:
 Analyzed Amazon customer reviews for five premium wireless speakers:
 
